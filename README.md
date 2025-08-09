@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My status
+### My status
 
 ![](https://github-readme-stats.vercel.app/api?username=imahrous13&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imahrous13&theme=omni&hide_border=false)<br/>
