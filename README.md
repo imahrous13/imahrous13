@@ -1,5 +1,4 @@
-## Hi there 👋
-
+### I’m a Data Scientist, Web Developer, and ML/AI Specialist passionate about transforming data into actionable insights, building high-performance web applications, and developing intelligent systems that solve real-world challenges
 <!--
 **imahrous13/imahrous13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
