@@ -1,5 +1,5 @@
 ## I'm Ibrahim
- I’m a Data Scientist, Web Developer, and ML/AI Specialist passionate about transforming data into actionable insights, building high-performance web applications, and developing intelligent systems that solve real-world challenges
+ I’m a Data Scientist, Web Developer, and ML/AI Specialist passionate about transforming data into actionable insights, building high-performance web applications, and developing intelligent systems that solve real-world challenges. My expertise spans advanced analytics, machine learning, deep learning, and modern web technologies, allowing me to create solutions that are both technically robust and user-friendly. I enjoy bridging the gap between data and decision-making, using innovative tools and frameworks to deliver measurable impact. Constantly learning and experimenting with new technologies, I strive to stay at the forefront of the ever-evolving tech landscape while sharing knowledge through projects and collaborations.
 <!--
 **imahrous13/imahrous13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
